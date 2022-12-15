@@ -26,3 +26,7 @@ step8 - download and install jenkins
         ls - you will get to see jenkins.war file
         start jenkins - java -javr jenkins.war
         Now take public ip of your Ec2 and check jenkins and install plugins.
+        
+ step9 - Setup Maven in global tool configuration and select version
+          give namae - we need to use same in jenkinsfile
+ step9 - Isnatll Build pipeline, blue ocean, artifactory.
